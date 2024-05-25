@@ -10,3 +10,6 @@
 [submodule "05_Nucleus-eWallet"]
 	path = 05_Nucleus-eWallet
 	url = https://github.com/MizAndhre/eWallet__CSS-BEM
+[submodule "06_Cafeteria"]
+	path = 06_Cafeteria
+	url = https://github.com/MizAndhre/Cafeteria__SASS-Gulp
