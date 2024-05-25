@@ -1,21 +1,21 @@
-[submodule "Tienda_Muebles__CSS-Responsive"]
-	path = Tienda_Muebles__CSS-Responsive
-	url = https://github.com/MizAndhre/Tienda_Muebles__CSS-Responsive
-[submodule "TechPRO-Audifonos__CSS"]
-	path = TechPRO-Audifonos__CSS
-	url = https://github.com/MizAndhre/TechPRO-Audifonos__CSS
+# [submodule "Tienda_Muebles__CSS-Responsive"]
+# 	path = Tienda_Muebles__CSS-Responsive
+# 	url = https://github.com/MizAndhre/Tienda_Muebles__CSS-Responsive
+# [submodule "TechPRO-Audifonos__CSS"]
+# 	path = TechPRO-Audifonos__CSS
+# 	url = https://github.com/MizAndhre/TechPRO-Audifonos__CSS
 [submodule "02_Tienda_Muebles-Responsive-Mobile_First"]
 	path = 02_Tienda_Muebles-Responsive-Mobile_First
 	url = https://github.com/MizAndhre/Tienda_Muebles__CSS-Responsive
+[submodule "03_Audifonos-TechPRO"]
+	path = 03_Audifonos-TechPRO
+	url = https://github.com/MizAndhre/TechPRO-Audifonos__CSS
+[submodule "04_Arquitectura_Website"]
+	path = 04_Arquitectura_Website
+	url = https://github.com/MizAndhre/Arquitectura-Website__CSS
 [submodule "05_Nucleus-eWallet"]
 	path = 05_Nucleus-eWallet
 	url = https://github.com/MizAndhre/eWallet__CSS-BEM
 [submodule "06_Cafeteria"]
 	path = 06_Cafeteria
 	url = https://github.com/MizAndhre/Cafeteria__SASS-Gulp
-[submodule "04_Arquitectura_Website"]
-	path = 04_Arquitectura_Website
-	url = https://github.com/MizAndhre/Arquitectura-Website__CSS
-[submodule "03_Audifonos-TechPRO"]
-	path = 03_Audifonos-TechPRO
-	url = https://github.com/MizAndhre/TechPRO-Audifonos__CSS
