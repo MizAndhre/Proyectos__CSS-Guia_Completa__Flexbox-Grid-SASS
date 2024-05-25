@@ -1,0 +1,9 @@
+[submodule "Tienda_Muebles__CSS-Responsive"]
+	path = Tienda_Muebles__CSS-Responsive
+	url = https://github.com/MizAndhre/Tienda_Muebles__CSS-Responsive
+[submodule "TechPRO-Audifonos__CSS"]
+	path = TechPRO-Audifonos__CSS
+	url = https://github.com/MizAndhre/TechPRO-Audifonos__CSS
+[submodule "02_Tienda_Muebles-Responsive-Mobile_First"]
+	path = 02_Tienda_Muebles-Responsive-Mobile_First
+	url = https://github.com/MizAndhre/Tienda_Muebles__CSS-Responsive
