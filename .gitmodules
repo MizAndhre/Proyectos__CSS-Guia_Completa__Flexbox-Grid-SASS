@@ -16,3 +16,6 @@
 [submodule "04_Arquitectura_Website"]
 	path = 04_Arquitectura_Website
 	url = https://github.com/MizAndhre/Arquitectura-Website__CSS
+[submodule "03_Audifonos-TechPRO"]
+	path = 03_Audifonos-TechPRO
+	url = https://github.com/MizAndhre/TechPRO-Audifonos__CSS
