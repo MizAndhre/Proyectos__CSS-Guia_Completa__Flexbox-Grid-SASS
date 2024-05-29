@@ -19,3 +19,6 @@
 [submodule "06_Cafeteria"]
 	path = 06_Cafeteria
 	url = https://github.com/MizAndhre/Cafeteria__SASS-Gulp
+[submodule "07_DeliveryApp"]
+	path = 07_DeliveryApp
+	url = https://github.com/MizAndhre/Delivery-App__SASS-BEM-Gulp
