@@ -22,3 +22,9 @@
 [submodule "07_DeliveryApp"]
 	path = 07_DeliveryApp
 	url = https://github.com/MizAndhre/Delivery-App__SASS-BEM-Gulp
+[submodule "08-PodcastApp"]
+	path = 08-PodcastApp
+	url = https://github.com/MizAndhre/PodcastApp__SASS-BEM
+[submodule "09-Airbnb-Copy"]
+	path = 09-Airbnb-Copy
+	url = https://github.com/MizAndhre/AirnBNB-Copy__SASS-BEM
