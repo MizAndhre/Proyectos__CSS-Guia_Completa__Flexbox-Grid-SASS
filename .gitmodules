@@ -28,3 +28,9 @@
 [submodule "09-Airbnb-Copy"]
 	path = 09-Airbnb-Copy
 	url = https://github.com/MizAndhre/AirnBNB-Copy__SASS-BEM
+[submodule "09_Airbnb-Copy"]
+	path = 09_Airbnb-Copy
+	url = https://github.com/MizAndhre/AirnBNB-Copy__SASS-BEM
+[submodule "08_PodcastApp"]
+	path = 08_PodcastApp
+	url = https://github.com/MizAndhre/PodcastApp__SASS-BEM
