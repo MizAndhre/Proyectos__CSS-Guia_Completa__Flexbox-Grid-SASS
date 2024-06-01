@@ -34,3 +34,6 @@
 [submodule "08_PodcastApp"]
 	path = 08_PodcastApp
 	url = https://github.com/MizAndhre/PodcastApp__SASS-BEM
+[submodule "10_Real-State"]
+	path = 10_Real-State
+	url = https://github.com/MizAndhre/Real-State__SASS_js-BEM
