@@ -43,3 +43,9 @@
 [submodule "12_Meeti"]
 	path = 12_Meeti
 	url = https://github.com/MizAndhre/Meeti-Clon__SASS
+[submodule "2"]
+	path = 2
+	url = https://github.com/MizAndhre/Escuela-Cocina__SASS
+[submodule "13_Escuela-Cocina"]
+	path = 13_Escuela-Cocina
+	url = https://github.com/MizAndhre/Escuela-Cocina__SASS
