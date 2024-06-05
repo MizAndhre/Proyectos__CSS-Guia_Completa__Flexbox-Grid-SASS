@@ -37,3 +37,9 @@
 [submodule "10_Real-State"]
 	path = 10_Real-State
 	url = https://github.com/MizAndhre/Real-State__SASS_js-BEM
+[submodule "11_Carolina-Spa"]
+	path = 11_Carolina-Spa
+	url = https://github.com/MizAndhre/CarolinaSpa__SASS-swiper
+[submodule "12_Meeti"]
+	path = 12_Meeti
+	url = https://github.com/MizAndhre/Meeti-Clon__SASS
