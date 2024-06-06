@@ -1,9 +1,5 @@
-# [submodule "Tienda_Muebles__CSS-Responsive"]
-# 	path = Tienda_Muebles__CSS-Responsive
-# 	url = https://github.com/MizAndhre/Tienda_Muebles__CSS-Responsive
-# [submodule "TechPRO-Audifonos__CSS"]
-# 	path = TechPRO-Audifonos__CSS
-# 	url = https://github.com/MizAndhre/TechPRO-Audifonos__CSS
+
+
 [submodule "02_Tienda_Muebles-Responsive-Mobile_First"]
 	path = 02_Tienda_Muebles-Responsive-Mobile_First
 	url = https://github.com/MizAndhre/Tienda_Muebles__CSS-Responsive
@@ -46,6 +42,6 @@
 [submodule "13_Escuela-Cocina"]
 	path = 13_Escuela-Cocina
 	url = https://github.com/MizAndhre/Escuela-Cocina__SASS
-[submodule "13_Escuela-Cocina"]
+[submodule "14_GuitarLA"]
 	path = 14_GuitarLA
 	url = https://github.com/MizAndhre/GuitarLA__CSS-BEM
