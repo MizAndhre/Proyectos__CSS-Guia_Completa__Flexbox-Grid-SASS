@@ -4,20 +4,25 @@ Este repositorio contiene una colección de proyectos enfocados en el desarrollo
 
 ## Proyectos
 
-### [Tienda de Muebles (CSS Responsive)](https://github.com/MizAndhre/Tienda_Muebles__CSS-Responsive)
-Un proyecto que muestra una tienda de muebles con un diseño completamente responsivo utilizando solo CSS.
+# Proyectos CSS y SASS: Enlaces a Implementaciones en Vivo
 
-### [TechPRO Audífonos (CSS)](https://github.com/MizAndhre/TechPRO-Audifonos__CSS)
-Un sitio web de una tienda de audífonos, diseñado y maquetado utilizando CSS puro.
+Este repositorio contiene una serie de proyectos web desarrollados con tecnologías como CSS, SASS, y metodologías como BEM. A continuación, se presentan los enlaces a las versiones en vivo de estos proyectos:
 
-### [Arquitectura Website (CSS)](https://github.com/MizAndhre/Arquitectura-Website__CSS)
-Un proyecto de un sitio web para una firma de arquitectura, implementado con técnicas avanzadas de CSS.
+## Proyectos
 
-### [eWallet (CSS & BEM)](https://github.com/MizAndhre/eWallet__CSS-BEM)
-Una aplicación de billetera electrónica diseñada utilizando la metodología BEM para CSS.
 
-### [Cafetería (SASS & Gulp)](https://github.com/MizAndhre/Cafeteria__SASS-Gulp)
-Un sitio web para una cafetería, desarrollado con SASS y automatizado con Gulp.
+- ### [eCommerce - Home](https://tienda-muebles-responsive-mizandhre.netlify.app/)
+- ### [TechPro Audífonos](https://css-audifonos-techpro-mizandhre.netlify.app/)
+- ### [Arquitectura Bosque](https://css-arquitectura-mizandhre.netlify.app/)
+- [Nucleus (eWallet)](https://css-ewallet-mizandhre.netlify.app/)
+- [Cafetería](https://sass-gulp-cafeteria-mizandhre.netlify.app/)
+- [App Delivery](https://sass-bem-deliveryapp-mizandhre.netlify.app/)
+- [Podcast App](https://scss-podcastapp-mizandhre.netlify.app/)
+- [AirBNB - BEM](https://sass-airbnbcopy-mizandhre.netlify.app/)
+- [Real State](https://sass-realstate-mizandhre.netlify.app/)
+- [Carolina Spa](https://main--sass-carolinaspa-mizandhre.netlify.app/)
+- [Meeti](https://sass-meeticlon-mizandhre.netlify.app/)
+- [Escuela de Cocina](https://sass-escuelacocina-mizandhre.netlify.app/)
+- [GuitarLA](https://css-guitarla-mizandhre.netlify.app/)
 
-### [Delivery App (SASS, BEM & Gulp)](https://github.com/MizAndhre/DeliveryApp__SASS-BEM-Gulp)
-Una aplicación de entrega de alimentos, estilizada con SASS, siguiendo BEM y utilizando Gulp para la automatización de tareas.
+
